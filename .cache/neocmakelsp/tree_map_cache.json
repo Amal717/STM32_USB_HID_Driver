@@ -1,0 +1,8 @@
+{
+  "date": "2026-08-27T13:01:42.282769036+05:30",
+  "data": {
+    "/home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/Drivers/HAL/CMakeLists.txt": "/home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt",
+    "/home/amal/Project_Workspace/stm32_projects/blink/Drivers/HAL/CMakeLists.txt": "/home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt",
+    "/home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/Core/CMakeLists.txt": "/home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-27T13:01:42.282846104+05:30",
+  "data": {
+    "/home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt": [
+      {
+        "label": "CMAKE_C_STANDARD",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_C_STANDARD_REQUIRED",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_C_EXTENSIONS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_EXPORT_COMPILE_COMMANDS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt\n\nGenerates compile_commands.json - clangd needs this for IntelliSense"
+      },
+      {
+        "label": "CMAKE_BUILD_TYPE",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/blink/CMakeLists.txt"
+      }
+    ],
+    "/home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt": [
+      {
+        "label": "CMAKE_C_STANDARD",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_C_STANDARD_REQUIRED",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_C_EXTENSIONS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_EXPORT_COMPILE_COMMANDS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt\n\nGenerates compile_commands.json - clangd needs this for IntelliSense"
+      },
+      {
+        "label": "CMAKE_BUILD_TYPE",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/amal/Project_Workspace/stm32_projects/USB_HID_Driver/CMakeLists.txt"
+      }
+    ]
+  }
+}
