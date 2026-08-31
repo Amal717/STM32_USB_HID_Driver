@@ -40,4 +40,4 @@ set(CMAKE_C_FLAGS_RELEASE "-Os -g0")
 # Target_Flags repeated - linker must know CPU to select correct libgcc variant
 # Linker script (-T) is NOT here - that is project-specific, set in CMakeLists.txt.
 set(CMAKE_EXE_LINKER_FLAGS
-    "${TARGET_FLAGS} --specs=nano.specs -Wl,--gc-sections -Wl,--print-memory-usage")
+    "${TARGET_FLAGS} --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,--print-memory-usage")

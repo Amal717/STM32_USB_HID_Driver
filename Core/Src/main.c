@@ -4,6 +4,10 @@
 #include "led.h"
 #include "uart.h"
 #include "usbd_framework.h"
+#include "usb_device.h"
+
+usb_device_t usb_device;
+uint32_t buffer[8];
 
 void delay(uint32_t ms)
 {
@@ -18,7 +22,8 @@ int main(void)
     pinmux_init();
     led_init();
     uart_init(UART_2, 9600);
-    usbd_init();
+    usb_device.out_buffer = &buffer;
+    usbd_init(&usb_device);
 
     while (1)
     {

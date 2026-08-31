@@ -4,6 +4,7 @@ target_sources(USB
     PRIVATE
         src/usbd_driver.c
         src/usbd_framework.c
+        src/Helpers/logger.c
 )
 
 target_include_directories(USB
